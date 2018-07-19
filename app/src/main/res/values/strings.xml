@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Programmieren 2 App</string>
+    <string name="willkommen">Herzlich willkommen beim HAW Selbsttest</string>
+    <string name="buttonStart">Test starten</string>
+    <string name="spielregeln">\n\nBilder Fragen:\n\n\t\tWählen Sie das Bild aus, welches Ihnen besser gefällt.\n\n\nText Fragen:\n\nWählen Sie eine der zwei Antworten aus.</string>
+    <string name="title_activity_pdf_ansicht">PdfAnsichtActivity</string>
+    <string name="title_activity_bild_frage1">BildFrage1Activity</string>
+</resources>
